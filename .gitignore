@@ -1,0 +1,15 @@
+.project
+.pydevprojec
+.pyc
+.csv
+.idea
+.dbm
+*.pyc
+.Rproj.user
+.Rhistory
+.spyderproject
+large_resources/
+build/
+*.so
+
+*.mine.cfg
