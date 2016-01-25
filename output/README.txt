@@ -1,0 +1,1 @@
+This folder is used for output that shouldn't be shared
